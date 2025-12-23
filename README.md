@@ -1,5 +1,5 @@
 ![Nobara Atmos Bridge Logo](logo.png)
-![App Screenshot](assets/screenshots/gui_preview.png)
+
 A performance-tuned bridge for running **Ableton Live 12** on Nobara Linux. Optimized specifically for the **Heavys H1H** headset and Wayland stability.
 
 ## ⚠️ ZEN MODE NOTICE: Fullscreen Only
